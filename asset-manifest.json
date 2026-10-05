@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.743d21a4.css",
-    "main.js": "/static/js/main.5ad13122.js",
-    "static/js/801.d19ca1d3.chunk.js": "/static/js/801.d19ca1d3.chunk.js",
-    "static/js/970.11f27ed9.chunk.js": "/static/js/970.11f27ed9.chunk.js",
-    "static/js/127.5991396b.chunk.js": "/static/js/127.5991396b.chunk.js",
-    "index.html": "/index.html"
+    "main.css": "/coleshop-demo/static/css/main.743d21a4.css",
+    "main.js": "/coleshop-demo/static/js/main.900d12de.js",
+    "static/js/801.d19ca1d3.chunk.js": "/coleshop-demo/static/js/801.d19ca1d3.chunk.js",
+    "static/js/970.11f27ed9.chunk.js": "/coleshop-demo/static/js/970.11f27ed9.chunk.js",
+    "static/js/127.5991396b.chunk.js": "/coleshop-demo/static/js/127.5991396b.chunk.js",
+    "index.html": "/coleshop-demo/index.html"
   },
   "entrypoints": [
     "static/css/main.743d21a4.css",
-    "static/js/main.5ad13122.js"
+    "static/js/main.900d12de.js"
   ]
 }
